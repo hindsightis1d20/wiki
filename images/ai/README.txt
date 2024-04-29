@@ -1,0 +1,1 @@
+For AI image uploads
